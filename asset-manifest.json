@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-firebase-authentication/static/css/main.9102974c.chunk.css",
+    "main.js": "/react-firebase-authentication/static/js/main.93ceba79.chunk.js",
+    "main.js.map": "/react-firebase-authentication/static/js/main.93ceba79.chunk.js.map",
+    "runtime-main.js": "/react-firebase-authentication/static/js/runtime-main.5746ef36.js",
+    "runtime-main.js.map": "/react-firebase-authentication/static/js/runtime-main.5746ef36.js.map",
+    "static/js/2.e8986921.chunk.js": "/react-firebase-authentication/static/js/2.e8986921.chunk.js",
+    "static/js/2.e8986921.chunk.js.map": "/react-firebase-authentication/static/js/2.e8986921.chunk.js.map",
+    "index.html": "/react-firebase-authentication/index.html",
+    "precache-manifest.c371f1e8278c34c3b1964fcb71f5f432.js": "/react-firebase-authentication/precache-manifest.c371f1e8278c34c3b1964fcb71f5f432.js",
+    "service-worker.js": "/react-firebase-authentication/service-worker.js",
+    "static/css/main.9102974c.chunk.css.map": "/react-firebase-authentication/static/css/main.9102974c.chunk.css.map",
+    "static/js/2.e8986921.chunk.js.LICENSE": "/react-firebase-authentication/static/js/2.e8986921.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5746ef36.js",
+    "static/js/2.e8986921.chunk.js",
+    "static/css/main.9102974c.chunk.css",
+    "static/js/main.93ceba79.chunk.js"
+  ]
+}
